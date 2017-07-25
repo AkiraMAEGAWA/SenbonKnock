@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/WiT_FIREeeeeeee.unity
+  isLoaded: 1
+  isActive: 1
